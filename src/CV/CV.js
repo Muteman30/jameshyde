@@ -3,6 +3,8 @@ import AboutMe from './AboutMe/AboutMe';
 import Skills from './Skills/Skills';
 import Experience from './Experience/Experience.js';
 import Education from './Education/Education';
+import SelectedProjects from './SelectedProjects/SelectedProject';
+import ContactMe from './ContactMe/ContactMe';
 import {Box, Typography} from "@mui/material";
 
 const CV = (props)=>{
@@ -15,6 +17,8 @@ const CV = (props)=>{
             <Skills/>
             <Experience/>
             <Education/>
+            <SelectedProjects/>
+            <ContactMe/>
         </Box>
     )
 }

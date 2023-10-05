@@ -1,9 +1,10 @@
 import React from 'react';
 import {Typography, Box} from "@mui/material";
+import CVSection from '../../components/CVSection/CVSection';
 
 const Experience = (props)=>{
     return(
-        <>
+        <CVSection>
             <Typography variant="h3">Experience</Typography>
             <Box>
                 <Typography variant="h4">Ordnance Survey - Associate Engineer / Engineer</Typography>
@@ -18,7 +19,7 @@ const Experience = (props)=>{
                 <Typography variant="body">I started my Web Development journey by joining a team which is responsible for the development and production of web applications for internal customers. Alongside my colleagues, segregating responsibilities to deliver projects and manage task boards within the team and regularly leading agile ceremonies.</Typography>
                 <Typography variant="body">Depending on the project I could be trusted to focus on the visual look and layout, the structural markup, or the data manipulation and storage. Due to the available platforms we delivered these applications on Microsoft SharePoint using the built in functionality to enhance it's offerings beyond the standard functionality.</Typography>
             </Box>
-        </>
+        </CVSection>
     )
 }
 
