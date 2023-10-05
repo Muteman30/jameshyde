@@ -13,7 +13,7 @@ const SelectedProjects = (props)=>{
         </Box>
         <Box>
             <Typography variant="h4">Customer Privacy Phone Agent Tool - Quilter</Typography>
-            <Typography variant="body">Before the solution I created for the contact teams they were using a static ‘Flipper’ to conduct the identifying of customers. This leads to predictable behavior in the agents and a protection risk in the business. The solution I built allowed admins to create and manage questions that could be asked for every account status, product, and caller role, randomly selecting questions to improve unpredictability, and giving a code to allow for the auditing of data protection. </Typography>
+            <Typography variant="body">Before the solution I created for the contact teams they were using a static 'Flipper' to conduct the identifying of customers. This leads to predictable behavior in the agents and a protection risk in the business. The solution I built allowed admins to create and manage questions that could be asked for every account status, product, and caller role, randomly selecting questions to improve unpredictability, and giving a code to allow for the auditing of data protection. </Typography>
         </Box>
     </>)
 }
