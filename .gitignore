@@ -9,7 +9,7 @@
 /coverage
 
 # production
-#/build - we do want the build folder to be in github as this will be deployed as a static website
+/build
 
 # misc
 .DS_Store
