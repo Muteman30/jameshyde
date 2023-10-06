@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jameshyde/static/css/main.64204b4e.css",
+    "main.js": "/jameshyde/static/js/main.b9e162ff.js",
+    "static/js/787.e9aa5967.chunk.js": "/jameshyde/static/js/787.e9aa5967.chunk.js",
+    "index.html": "/jameshyde/index.html",
+    "main.64204b4e.css.map": "/jameshyde/static/css/main.64204b4e.css.map",
+    "main.b9e162ff.js.map": "/jameshyde/static/js/main.b9e162ff.js.map",
+    "787.e9aa5967.chunk.js.map": "/jameshyde/static/js/787.e9aa5967.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64204b4e.css",
+    "static/js/main.b9e162ff.js"
+  ]
+}
